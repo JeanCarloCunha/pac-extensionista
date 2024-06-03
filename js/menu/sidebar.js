@@ -143,20 +143,17 @@ var sidebar = `
         </li>
         <li class="menu-item">
             <button class="menu-item-title">
-                <span onclick="window.location.href = ''">Conhecendo o Arduino</span>
+                <span onclick="window.location.href = './conhecendo-arduino.html'">Conhecendo o Arduino</span>
                 <i class="fa-solid fa-chevron-left arrow"></i>
             </button>
             
             <div class="sub-menu-body">
                 <ul class="sub-menu-items">
                     <li class="sub-menu-item">
-                        <a href="#">Sub menu 1</a>
+                        <a href="./conhecendo-arduino.html#o-que-e-o-arduino">O que é o Arduino?</a>
                     </li>
                     <li class="sub-menu-item">
-                        <a href="#">Sub menu 2</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="#">Sub menu 3</a>
+                        <a href="./conhecendo-arduino.html#como-funciona-o-arduino">Como funciona o Arduino?</a>
                     </li>
                 </ul>
             </div>
