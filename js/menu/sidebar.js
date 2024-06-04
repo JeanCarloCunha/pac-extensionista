@@ -127,7 +127,7 @@ var sidebar = `
                         <a href="./lacos-de-repeticao.html#o-que-sao-lacos-de-repeticao">O que são laços de repetição?</a>
                     </li>
                     <li class="sub-menu-item">
-                        <a href="./lacos-de-repeticao.html#tipos-de-lacos-de-repeticao">Sub menu 2</a>
+                        <a href="./lacos-de-repeticao.html#tipos-de-lacos-de-repeticao">Tipos de laços de repetição</a>
                     </li>
                 </ul>
             </div>
@@ -181,7 +181,7 @@ var sidebar = `
 </nav>
 <hr>
 <div class="information">
-    <a href="#">Sobre a equipe</a> 
+    <a href="./sobre-a-equipe.html">Sobre a equipe</a> 
 </div>
 `
 

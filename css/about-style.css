@@ -1,0 +1,42 @@
+.cards-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 10vh;
+    row-gap: 5vh;
+    justify-content:space-around;
+    width: 100%;
+}
+
+.profile-picture {
+    background-color: #68FF60;
+    border-radius: 100vw;
+    width: 60%;
+}
+
+.card {
+    align-items: center;
+    background-color: #022E17;
+    border: 2px solid #68FF60;
+    border-radius: 3vw;
+    cursor: default;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 1vw;
+    user-select: none;
+    width: 25%;
+}
+
+.card-member-name {
+    margin-top: 2vh;
+    margin-bottom: 1vh; 
+}
+
+.function {
+    font-weight: 400;
+    margin-bottom: 2vh;
+}
+
+.card-description {
+    text-align: center;
+}
