@@ -124,13 +124,10 @@ var sidebar = `
             <div class="sub-menu-body">
                 <ul class="sub-menu-items">
                     <li class="sub-menu-item">
-                        <a href="#">Sub menu 1</a>
+                        <a href="./lacos-de-repeticao.html#o-que-sao-lacos-de-repeticao">O que são laços de repetição?</a>
                     </li>
                     <li class="sub-menu-item">
-                        <a href="#">Sub menu 2</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="#">Sub menu 3</a>
+                        <a href="./lacos-de-repeticao.html#tipos-de-lacos-de-repeticao">Sub menu 2</a>
                     </li>
                 </ul>
             </div>
