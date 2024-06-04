@@ -160,40 +160,28 @@ var sidebar = `
         </li>
         <li class="menu-item">
             <button class="menu-item-title">
-                <span onclick="window.location.href = ''">Componentes Básicos</span>
+                <span onclick="window.location.href = './componentes-basicos.html'">Componentes Básicos</span>
                 <i class="fa-solid fa-chevron-left arrow"></i>
             </button>
             
             <div class="sub-menu-body">
                 <ul class="sub-menu-items">
                     <li class="sub-menu-item">
-                        <a href="#">Sub menu 1</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="#">Sub menu 2</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="#">Sub menu 3</a>
+                        <a href="./componentes-basicos.html#principai-componentes">Principais componentes</a>
                     </li>
                 </ul>
             </div>
         </li>
         <li class="menu-item">
             <button class="menu-item-title">
-                <span onclick="window.location.href = ''">Simuladores de Robótica</span>
+                <span onclick="window.location.href = './simuladores-robotica.html'">Simuladores de Robótica</span>
                 <i class="fa-solid fa-chevron-left arrow"></i>
             </button>
             
             <div class="sub-menu-body">
                 <ul class="sub-menu-items">
                     <li class="sub-menu-item">
-                        <a href="#">Sub menu 1</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="#">Sub menu 2</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="#">Sub menu 3</a>
+                        <a href="./simuladores-robotica.html#utilizado-simulador-de-robotica">Utilizando simuladores de robótica</a>
                     </li>
                 </ul>
             </div>
