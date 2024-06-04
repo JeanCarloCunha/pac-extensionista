@@ -19,12 +19,6 @@ var sidebar = `
                         <a href="./logica-geral.html#o-que-e-logica">O que é lógica?</a>
                     </li>
                     <li class="sub-menu-item">
-                        <a href="./logica-geral.html#historia-da-logica">História da lógica</a>
-                    </li>
-                    <li class="sub-menu-item">
-                        <a href="./logica-geral.html#a-importancia-da-logica">A importância da lógica</a>
-                    </li>
-                    <li class="sub-menu-item">
                         <a href="./logica-geral.html#exercicios">Exercícios</a>
                     </li>
                 </ul>
