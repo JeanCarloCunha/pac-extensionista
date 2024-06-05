@@ -181,7 +181,8 @@ var sidebar = `
 </nav>
 <hr>
 <div class="information">
-    <a href="./sobre-a-equipe.html">Sobre a equipe</a> 
+    <a href="./sobre-a-equipe.html">Sobre a equipe</a>
+    <a href="https://www.catolicasc.org.br/" target="_blank">Católica SC</a>
 </div>
 `
 

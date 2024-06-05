@@ -139,6 +139,9 @@ ul#menu-items {
 /* Information */
 
 .information {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
     margin-left: 3vw;
     padding: 3vh 2vw 6vh 0;
 }
