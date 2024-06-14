@@ -40,3 +40,10 @@
 .card-description {
     text-align: center;
 }
+
+@media only screen and (max-width: 768px) {
+    .card {
+        padding: 6vw 4vw;
+        width: 100%;
+    }
+}
